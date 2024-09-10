@@ -79,4 +79,4 @@ To run this project, you will need:
 
 - This project was built using **Streamlit**, an open-source Python framework for creating web apps for machine learning and data science.
   
-Feel free to raise issues or contribute to the project by submitting a pull request!
+
